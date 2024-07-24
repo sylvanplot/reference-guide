@@ -1,7 +1,7 @@
 # Setting up git using SSH
 
-*[Refer to README for a description of the repository](https://github.com/sylvanplot/reference-guide/)*.
-This guide covers setting up a git repository from a clean machine using SSH for authentication and verification.
+Refer to *[README](https://github.com/sylvanplot/reference-guide/)* for a description of the repository.  
+This guide covers setting up a git repository from a clean machine using SSH for authentication and verification.  
 This makes it possible to use git commands without having to constantly input user and password, while also signing commits to verify the user's identity (using GitHub verification feature).
 
 # Requirements
