@@ -23,7 +23,7 @@ This makes it possible to use git commands without having to constantly input us
 
 - Enter the created directory.
 
-- Configure git username and email. Use the same username and email from your GitHub account, otherwise GitHub will not know it's you. Note that using "--global" will apply the configuration globally. If using for a specific repository, simply omit "--global" and the configuration will only apply for the current repository. Useful when working on projects accros multiple platforms.
+- Configure git username and email. Use the same username and email from your GitHub account, otherwise GitHub will not know it's you. Note that using "--global" will apply the configuration globally. If using for a specific repository, simply omit "--global" and the configuration will only apply for the current repository. Useful when working on projects across multiple platforms.
 
     > git config --global user.name "username"  
     > git config --global user.email "user@email.com"
