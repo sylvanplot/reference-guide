@@ -9,7 +9,7 @@ This makes it possible to use git commands without having to constantly input us
 - Having git installed. Refer to *[Git Download page](https://git-scm.com/downloads)* for an appropriate version.
 - Having created a SSH key. Refer to *[Generating a new SSH key and adding it to the ssh-agent (Generating a new SSH key section)](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)*
 - Having added the created SSH keys to your GitHub account. Refer to *[Adding a new SSH key to your GitHub account (Adding a new SSH key to your account section)](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)*
-    > # Note that SSH will be used both for authenticating and signing commits, so this step needs to be done twice, once for authentication key and another for signing key. The same public key may be used for both actions, for simplicity.
+    > Note that SSH will be used both for authenticating and signing commits, so this step needs to be done twice, once for authentication key and another for signing key. The same public key may be used for both actions, for simplicity.
 - Activating "Vigilant mode" on GitHub to check for verified commits. Refer to *[Displaying verification statuses for all of your commits (Emabling viginalt mode section)](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits)*
 - Having an existing repository for setting up git and validating SSH connection.
 
