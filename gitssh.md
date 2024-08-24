@@ -42,6 +42,8 @@ This makes it possible to use git commands without having to constantly input us
 
 - Check your commit on GitHub and verify whether it says "Verified". *[Example](https://github.com/sylvanplot/reference-guide/commit/e693a323d94f49ddb8f14c77bcc1ba1cd8e13d18)*.
 
+- Note that if you remove the key added to github, all commits signed using said key will become unverified.
+
 # References
 
 1. *[Generating a new SSH key and adding it to the ssh-agent | Github Docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)*
